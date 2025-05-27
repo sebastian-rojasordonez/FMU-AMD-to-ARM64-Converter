@@ -115,4 +115,4 @@ pip3 install fmpy
 python3 -c "from fmpy import simulate_fmu; res = simulate_fmu('MyModel_ARM64.fmu', start_time=0, stop_time=1); print(res.tail(1))"
 ```
 
-👍 **Done!** You now have ARM64-compatible FMUs ready for GitHub or deployment.
+👍 **Done!** You now have ARM64-compatible FMUs ready for deployment.
